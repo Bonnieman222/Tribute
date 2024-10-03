@@ -1,0 +1,32 @@
+@font-face{ 
+	font-family: myFont;
+	src: url(sponger.otf);
+}
+
+h1{
+	font-family: myFont;
+	text-align: center;
+	font-size: 46px;
+}
+
+.myimg{
+	width: 400px;
+	height: 400px;
+	object-fit: cover;
+	border-radius: 50%;
+	background-size: fit;
+	background-position: center;
+	display: block;
+	align-content: center;
+	margin: auto;
+}
+body{
+	background-image: url(Spongeonmyback.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: myFont;
+}
+.inline{
+	margin: 235px;
+	font-size:25px;
+}
