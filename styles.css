@@ -3,7 +3,7 @@
 	src: url(sponger.otf);
 }
 
-h1{
+#stephen{
 	font-family: myFont;
 	text-align: center;
 	font-size: 46px;
@@ -20,13 +20,45 @@ h1{
 	align-content: center;
 	margin: auto;
 }
-body{
-	background-image: url(Spongeonmyback.png);
-	background-repeat: no-repeat;
-	background-size: cover;
+#crob{
 	font-family: myFont;
 }
 .inline{
 	margin: 235px;
 	font-size:25px;
+}
+h2{
+	text-align: center;
+	font-size: 30px;
+}
+p{
+	text-align: center;
+}
+ol{
+	text-align: left;
+}
+#quoot{
+	font-size: 40px;
+	text-align: center;
+}
+button{
+	font-family: myFont;
+	text-align: center;
+	font-size: 35px;
+	background-color: #ffffcc;
+}
+#bib{
+	font-family: "Times New Roman";
+	text-align: center;
+	font-size: 45px;
+}
+html{
+	background-image: url(Spongeonmyback.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#stillhatenewroman{
+	text-align: center;
+	font-family: "Times New Roman";
+	font-size: 35px;
 }
